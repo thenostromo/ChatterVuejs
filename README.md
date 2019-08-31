@@ -1,6 +1,12 @@
-# chatter-vuejs
+A simple chat.
 
-> A Vue.js project
+Technical Kit:
++ vuejs;
++ vuex;
++ firebase;
++ materialize css;
+
+Demo: http://136.243.142.144:8001
 
 ## Build Setup
 
@@ -17,5 +23,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
